@@ -1,0 +1,124 @@
+body
+{
+    
+    padding: 0;
+    font-family: serif;
+    
+  
+}
+
+.wraper
+{
+    max-width: 800px;
+    margin:0 auto;
+    background: crimson);
+}
+
+h1
+{
+    margin-bottom: 0px;
+    background: rgb(112, 42, 17);
+    text-align: center;
+    color: darkorange;
+    font-size: 40px;
+}
+
+em
+{
+    color: rgb(177, 99, 4);
+    border-bottom: 1px solid;
+}
+
+ul
+{
+    text-align: center;
+    list-style: none;
+}
+
+ul a
+{
+    text-align: center;
+    padding: 5px 15px;
+    text-decoration: none;
+    color: olive;
+    border: 1px solid orangered;
+    border-radius: 4px;
+    margin: 15px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+/*//////////about style page//////////*/
+
+.descript
+{
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+img
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.cont
+{
+    overflow: auto;
+    color: #ccc;
+    background: rgb(112, 42, 17);
+    text-align: center;
+}
+
+.cont p
+{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+h3
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(112, 42, 17);
+    font-weight: bold;
+    border-bottom: 1px solid;
+    font-size: 30px;
+    background: rgb(207, 207, 28);
+    margin-bottom: 0px;
+
+}
+
+.ingrid
+{
+    background: rgb(112, 42, 17);
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    padding: 7px;
+    margin-bottom: 0px;
+}
+
+#row
+{
+    padding: 5px;
+}
+.steps
+{
+    margin-bottom: 30px;
+    text-align: center;
+    background: rgb(151, 67, 36);
+   
+}
+
+.steps li
+{
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
